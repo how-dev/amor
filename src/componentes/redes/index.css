@@ -1,0 +1,13 @@
+.BlocoLinks {
+    display: flex;
+    flex-direction: column;
+}
+.Links {
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}

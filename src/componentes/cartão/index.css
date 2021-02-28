@@ -1,0 +1,14 @@
+.Cartao {
+    background: #FF8EE6;
+    width: 65%;
+    max-width: 350px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+    .Cartao h1 {
+        color: white;
+    }
+    .Cartao p {
+        color: white;
+    }
